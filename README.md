@@ -1,13 +1,10 @@
 ### Hello! I´m Sakiio
 
-<!--
-**Sakiio/Sakiio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [SkillWars] (https://twitter.com/skillwarsnet?lang=es)
 - 🌱 I’m currently learning Java and JavaScript
--->
+
 
 ## How to reach me?
 
