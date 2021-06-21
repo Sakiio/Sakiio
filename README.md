@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [SkillWars] (https://twitter.com/skillwarsnet?lang=es)
+- 🔭 I’m currently working on [![SkillWars] (https://twitter.com/skillwarsnet?lang=es)
 - 🌱 I’m currently learning Java and JavaScript
 
 
