@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on (https://twitter.com/skillwarsnet?lang=es)
-- 🌱 I’m currently learning Java and JavaScript
+- 🔭 I’m currently working on Battle, PvPDungeon
+- 🌱 I’m currently learning Java and PHP
 
 
 ## How to reach me?
