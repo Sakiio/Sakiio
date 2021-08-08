@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on Battle, PvPDungeon
 - 🌱 I’m currently learning Java and PHP
-- 💨 I,m 
-
 
 ## How to reach me?
 
