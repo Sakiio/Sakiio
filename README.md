@@ -1,9 +1,8 @@
 ### Hello! I´m Sakiio
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Battle, PvPDungeon
 - 🌱 I’m currently learning Java and PHP
+- 💨 I,m 
 
 
 ## How to reach me?
