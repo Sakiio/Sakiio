@@ -1,7 +1,7 @@
 ### Hello! I´m Sakio
 
-- 🌱 I’m currently learning Java and PHP
-
+- I’m currently learning Java and PHP
+- CEO/Developer - Hairly Games
 ## How to reach me?
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakiio)
