@@ -2,6 +2,8 @@
 
 - I’m currently learning Java and PHP
 - CEO/Developer - Hairly Games
+
+[![wakatime](https://wakatime.com/badge/user/59b1fced-8af1-43ca-bfe7-bc39e776f611.svg)](https://wakatime.com/@59b1fced-8af1-43ca-bfe7-bc39e776f611)
 ## How to reach me?
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakiio)
